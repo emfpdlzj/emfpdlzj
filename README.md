@@ -15,7 +15,6 @@
           <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white">
-          <img src="https://img.shieldsa.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
           <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
