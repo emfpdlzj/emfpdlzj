@@ -116,6 +116,10 @@
       <strong>Unity 2D 게임 “Dungeon of Records”</strong> (2025.03)<br>
       로그라이크 카드 시스템: 카드 UI/데이터 구조/상호작용 로직 구현
     </li>
+    <li>
+  <strong>강아지 산책 경로 추천 앱</strong> (2023.09)<br>
+  경로추천 AI 기반 산책 경로 추천 서비스 기획, Kotlin 기반 앱
+</li>
   </ul>
 </div>
 <br>
