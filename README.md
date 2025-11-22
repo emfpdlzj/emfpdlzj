@@ -94,7 +94,7 @@
   <ul style="list-style-type: disc; font-size: 15px; font-weight: 600; color: #282d33;">
     <li>
       <strong>DOCKin — AI 기반 조선현장 작업지원 어플</strong> (2024.09 ~ 2024.11)<br>
-      산업통상자원부 주관 K-조선 2025 해커톤 본선 <br>
+      산업통상자원부 주관 K-조선 2025 해커톤 대상 <br>
     </li>
     <li>
       <strong>실시간 화재 감지 웹 서비스</strong> (2025.09)<br>
@@ -107,10 +107,6 @@
     <li>
       <strong>주차장 혼잡도 예측 웹 페이지</strong> (2024.09 ~ 2024.12)<br>
       실시간 점유율 표시 및 데이터 기반 혼잡도 예측
-    </li>
-    <li>
-      <strong>항공권 예약 웹 페이지</strong> (2025.10)<br>
-      항공편 조회·예약·취소, CRUD 처리, 폼 유효성 검사 지원
     </li>
     <li>
       <strong>Unity 2D 게임 “Dungeon of Records”</strong> (2025.03)<br>
