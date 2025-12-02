@@ -8,8 +8,8 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👾 About me </h2>
   <br>
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-    I’m interested in <strong>embedded software</strong> and <strong>kernel development</strong>,<br>
-    so I’m currently studying <strong>IoT</strong> and <strong>TinyML</strong>.
+    I’m interested in <strong>embedded, edge AI</strong>,<br>
+    so I’m currently studying <strong>AIoT</strong> and <strong>TinyML</strong>.
 </div>
 
 <br>
@@ -49,6 +49,7 @@
     <li>
       <strong>학부 연구 활동</strong> (2025.07 ~ )<br>
       : UWB 레이더 센싱, MCU 기반 TinyML, LoS/NLoS 분류 및 경량화 모델 연구
+      : TensorFlow, TFLM, Python, C
     </li>
     <li>
       <strong>LG SDC 2024 서포터즈 1기</strong> (2024.09)<br>
@@ -95,18 +96,19 @@
     <li>
       <strong>DOCKin — AI 기반 조선현장 작업지원 어플</strong> (2024.09 ~ 2024.11)<br>
       산업통상자원부 주관 K-조선 2025 해커톤 대상 <br>
+      Spring, <b>Kotlin, Unity, FastAPI</b>
     </li>
     <li>
       <strong>주차장 혼잡도 예측 웹 페이지</strong> (2024.09 ~ 2024.12)<br>
-      실시간 점유율 표시 및 데이터 기반 혼잡도 예측
+      실시간 점유율 표시 및 데이터 기반 혼잡도 예측 : <b>React, FastAPI</b>, Exress
     </li>
     <li>
       <strong>Unity 2D 게임 “Dungeon of Records”</strong> (2025.03)<br>
-      로그라이크 카드 시스템: 카드 UI/데이터 구조/상호작용 로직 구현
+      로그라이크 카드 시스템: 카드 UI/데이터 구조/상호작용 로직 구현 :<b>Unity, C#</b>
     </li>
     <li>
   <strong>강아지 산책 경로 추천 앱</strong> (2023.09)<br>
-  경로추천 AI 기반 산책 경로 추천 서비스 기획, Kotlin 기반 앱
+  경로추천 AI 기반 산책 경로 추천 서비스 기획, :<b>Kotlin</b>
 </li>
   </ul>
 </div>
