@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=flat&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
     <br>
@@ -47,7 +48,7 @@
       : C#, PHP, .NET Framework, Unity 프로그램 개발 및 손상탐지 센서 데이터 수집
     </li>
     <li>
-      <strong>학부 연구 활동</strong> (2025.07 ~ )<br>
+      <strong>학부 연구 활동</strong> (2025.03 ~ 2025.12 )<br>
       : UWB 레이더 센싱, MCU 기반 TinyML, LoS/NLoS 분류 및 경량화 모델 연구
       : TensorFlow, TFLM, Python, C
     </li>
@@ -94,12 +95,12 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Projects </h2>
   <ul style="list-style-type: disc; font-size: 15px; font-weight: 600; color: #282d33;">
     <li>
-      <strong>DOCKin — AI 기반 조선현장 작업지원 어플</strong> (2024.09 ~ 2024.11)<br>
-      산업통상자원부 주관 K-조선 2025 해커톤 대상 <br>
+      <strong>DOCKin — 산업통상자원부 주관 K-조선 2025 해커톤 대상</strong> (2024.09 ~ 2024.11)<br>
+       AI 기반 조선현장 작업지원 어플
       Spring, <b>Kotlin, Unity, FastAPI</b>
     </li>
     <li>
-      <strong>주차장 혼잡도 예측 웹 페이지</strong> (2024.09 ~ 2024.12)<br>
+      <strong>A-parking</strong> (2024.09 ~ 2024.12)<br>
       실시간 점유율 표시 및 데이터 기반 혼잡도 예측 : <b>React, FastAPI</b>, Exress
     </li>
     <li>
