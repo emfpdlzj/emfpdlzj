@@ -27,6 +27,7 @@ I’m also interested in <strong>web development</strong> and <strong>mobile app
     <br>
     <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=flat&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
     <br>
@@ -99,7 +100,7 @@ I’m also interested in <strong>web development</strong> and <strong>mobile app
       Kotlin, Unity, FastAPI / Spring
     </li>
     <li>
-      <strong>A-parking</strong> (2024.09 ~ 2024.12)<br>
+      <strong>A-parking</strong> (2025.10 ~ 2025.12)<br>
       실시간 점유율 표시 및 데이터 기반 혼잡도 예측 : React, FastAPI, YOLO / Express, MySQL
     </li>
     <li>
