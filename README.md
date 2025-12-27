@@ -30,6 +30,7 @@ I’m also interested in <strong>web development</strong> and <strong>mobile app
     <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=flat&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql">
     <br>
     <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
@@ -42,11 +43,16 @@ I’m also interested in <strong>web development</strong> and <strong>mobile app
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍇 Activity </h2>
   <ul style="list-style-type: disc; font-size: 15px; font-weight: 600; color: #282d33;">
     <li>
-      <strong>IT 근로 인턴</strong> (2025.03 ~ Present)<br>
-      : C#, PHP, .NET Framework, Unity 프로그램 개발 및 손상탐지 센서 데이터 수집
+    <strong>IT 근로 인턴</strong> (2025.03 ~ Present)<br>
+      - C#, .NET Framework 기반 사내 업무 지원용 Windows Forms 프로그램 개발<br>
+      - Unity를 활용한 3D 도면 미리보기 및 시각화 툴 구현<br>
+      - PHP / HTML / CSS 기반 사내 프로그램 유지보수 및 기능 수정
     </li>
     <li>
-      <strong>학부 연구 활동</strong> (2025.03 ~ 2025.12)<br>
+       <strong> 언어문화NGO 조인어스코리아 - 웹 UX 개선 봉사활동 </strong> (2026.01 ~ Present)<br>
+    </li>
+    <li>
+      <strong>학부 연구생 활동</strong> (2025.03 ~ 2025.12)<br>
       : UWB 데이터 분류 , MCU 기반 TinyML, LoS/NLoS 분류 및 경량화 모델 연구 <br>
       TensorFlow, TFLM, Python, C<br>
     </li>
