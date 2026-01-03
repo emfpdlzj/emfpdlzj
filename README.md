@@ -8,9 +8,14 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👾 About me </h2>
   <br>
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-I’m interested in <strong>embedded, edge AI</strong>,<br>
-so I’m currently studying <strong>AIoT</strong> and <strong>TinyML</strong>.<br><br>
-I’m also interested in <strong>web development</strong> and <strong>mobile applications for edge devices</strong>.
+    I’m interested in <strong>embedded systems</strong> and <strong>edge AI</strong>,
+    so I’m currently studying <strong>AIoT</strong> and <strong>TinyML</strong>. <br><br>
+    I’m also a <strong>full-stack web developer</strong>,<br>
+    building backend services with <strong>FastAPI</strong> and
+    frontend & mobile applications with <strong>React</strong> and <strong>React Native</strong>.<br><br>
+    I enjoy designing and implementing end-to-end systems,
+    from edge devices to servers and user-facing applications.
+  </div>
 </div>
 
 <br>
@@ -26,11 +31,17 @@ I’m also interested in <strong>web development</strong> and <strong>mobile app
     <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black">
     <br>
     <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=flat&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql">
+    <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+    <br>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+    <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=flat&logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat&logo=figma&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
@@ -50,6 +61,7 @@ I’m also interested in <strong>web development</strong> and <strong>mobile app
     </li>
     <li>
        <strong> 언어문화NGO 조인어스코리아 - 웹 UX 개선 봉사활동 </strong> (2026.01 ~ Present)<br>
+     : Next.js · React · Django · AWS 기반 조인어스월드 서비스 유지보수 및 UX 개선
     </li>
     <li>
       <strong>학부 연구생 활동</strong> (2025.03 ~ 2025.12)<br>
@@ -101,7 +113,7 @@ I’m also interested in <strong>web development</strong> and <strong>mobile app
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Projects </h2>
   <ul style="list-style-type: disc; font-size: 15px; font-weight: 600; color: #282d33;">
     <li>
-      <strong>DOCKin — 산업통상자원부 주관 K-조선 2025 해커톤 대상</strong> (2024.09 ~ 2024.11)<br>
+      <strong>DOCKin — 산업통상자원부 주관 K-조선 2025 해커톤 대상</strong> (2025.09 ~ 2025.11)<br>
        AI 기반 조선현장 작업지원 어플
       Kotlin, Unity, FastAPI / Spring
     </li>
