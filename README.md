@@ -137,16 +137,16 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📖 Education</h2>
   <ul style="list-style-type: disc; font-size: 15px; font-weight: 600; color: #282d33;">
   <li>
+  <strong>Automotive SPICE 핵심 체크포인트 이해 과정 (상/하)</strong> - (2026.01 ~ 2026.02) 
+  <br>: 임베디드·자동차 SW 개발 프로세스, 요구사항·검증 체계 이해
+  </li>
+  <li>
   <strong>드림핵 사이버보안 입문 – 시스템 해킹 초급</strong> - (2025.01 ~ 2025.03)<br>
     : Linux 환경 기반 메모리 구조, 권한 상승, 바이너리 취약점 기초 학습
   </li>
   <li>
     <strong>드림핵 사이버보안 입문 – 웹 해킹 초급</strong> - (2025.01 ~ 2025.03)<br>
     : HTTP 구조 이해, SQL Injection, XSS 등 웹 취약점 실습
-  </li>
-  <li>
-  <strong>Automotive SPICE 핵심 체크포인트 이해 과정 (상/하)</strong> - (2026.01 ~ 2026.02) 
-  <br>: 임베디드·자동차 SW 개발 프로세스, 요구사항·검증 체계 이해
   </li>
   </div>
 <br>
