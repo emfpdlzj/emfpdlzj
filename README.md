@@ -6,7 +6,6 @@
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👾 About me </h2>
-  <br>
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
     I’m interested in <strong>embedded systems</strong> and <strong>edge AI</strong>,
     so I’m currently studying <strong>AIoT</strong> and <strong>TinyML</strong>. <br><br>
@@ -35,7 +34,6 @@
     <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql">
     <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
     <br>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black">
@@ -45,6 +43,7 @@
     <br>
     <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   </div>
 </div>
 
@@ -54,34 +53,24 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍇 Activity </h2>
   <ul style="list-style-type: disc; font-size: 15px; font-weight: 600; color: #282d33;">
     <li>
-    <strong>IT 근로 인턴</strong> (2025.03 ~ Present)<br>
+    <strong>IT 근로 인턴</strong> (2025.03 ~ 2025.12)<br>
       - C#, .NET Framework 기반 사내 업무 지원용 Windows Forms 프로그램 개발<br>
       - Unity를 활용한 3D 도면 미리보기 및 시각화 툴 구현<br>
       - PHP / HTML / CSS 기반 사내 프로그램 유지보수 및 기능 수정
     </li>
     <li>
-       <strong> 언어문화NGO 조인어스코리아 - 웹 UX 개선 봉사활동 </strong> (2026.01 ~ Present)<br>
-     : Next.js · React · Django · AWS 기반 조인어스월드 서비스 유지보수 및 UX 개선
-    </li>
-    <li>
       <strong>학부 연구생 활동</strong> (2025.03 ~ 2025.12)<br>
       : UWB 데이터 분류 , MCU 기반 TinyML, LoS/NLoS 분류 및 경량화 모델 연구 <br>
-      TensorFlow, TFLM, Python, C<br>
-    </li>
-    <li>
-      <strong>LG SDC 2024 서포터즈 1기</strong> (2024.09)<br>
+      TensorFlow, TFLM,Edge AI, Python, C<br>
     </li>
     <li>
       <strong>LG CNS AI Genius 12기</strong> (2024.09 ~ 2024.12)<br>
     </li>
     <li>
+      <strong>LG SDC 2024 서포터즈 1기</strong> (2024.09)<br>
+    </li>
+    <li>
       <strong>KISA 블록체인 누리단</strong> (2024.08 ~ 2024.11)<br>
-    </li>
-    <li>
-      <strong>CJ 올리브네트웍스 청소년 디지털 문제해결 프로젝트 멘토</strong> (2024.07 ~ 2024.11)<br>
-    </li>
-    <li>
-      <strong>현대오토에버 찾아가는 코드클럽 교육봉사</strong> (2024.04 ~ 2024.07)<br>
     </li>
     <li>
       <strong>게임듀오 겜듀캐스트 서포터즈 1기</strong> (2024.04 ~ 2024.10)<br>
@@ -96,10 +85,6 @@
     <li>
       <strong>중앙광고동아리 온라인마케팅팀 팀장</strong> (2023.09 ~ 2023.12)<br>
       기업 마케팅 분석 및 리서치 진행 <br>
-    </li>
-    <li>
-      <strong>중앙 교육봉사동아리 기획부장</strong> (2023.03 ~ 2024.06)<br>
-      IT 및 영어 교육봉사, 프로젝트 기획 및 컨텐츠 제작 
     </li>
     <li>
       <strong>Supporters 4U</strong> (2023.09)<br>
@@ -131,7 +116,30 @@
 </li>
   </ul>
 </div>
+<br>
 
+<div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤝 Tech & Education Volunteering </h2>
+  <ul style="list-style-type: disc; font-size: 15px; font-weight: 600; color: #282d33;">
+        <li>
+       <strong> 언어문화NGO 조인어스코리아 - 웹 UX 개선 봉사활동 </strong> (2026.01 ~ Present)<br>
+     : Next.js · React · Django · AWS 기반 조인어스월드 서비스 유지보수 및 UX 개선
+    </li>
+    <li>
+      <strong>LG CNS AI Genius 12기</strong> (2024.09 ~ 2024.12)<br>
+    </li>
+    <li>
+      <strong>현대오토에버 찾아가는 코드클럽 교육봉사</strong> (2024.04 ~ 2024.07)<br>
+    </li>
+    <li>
+      <strong>CJ 올리브네트웍스 청소년 디지털 문제해결 프로젝트 멘토</strong> (2024.07 ~ 2024.11)<br>
+    </li>
+    <li>
+      <strong>중앙 교육봉사동아리 기획부장</strong> (2023.03 ~ 2024.06)<br>
+      IT 및 영어 교육봉사, 프로젝트 기획 및 컨텐츠 제작 
+    </li>
+  </ul>
+</div>
 <br>
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📖 Education</h2>
