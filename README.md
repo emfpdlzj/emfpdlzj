@@ -98,13 +98,16 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Projects </h2>
   <ul style="list-style-type: disc; font-size: 15px; font-weight: 600; color: #282d33;">
     <li>
-      <strong>DOCKin — 산업통상자원부 주관 K-조선 2025 해커톤 대상</strong> (2025.09 ~ 2025.11)<br>
-       AI 기반 조선현장 작업지원 어플
-      Kotlin, Unity, FastAPI / Spring
+      <strong> [아모레퍼시픽] 2026 AI INNOVATION CHALLENGE </strong> (2025.12 ~ 2026.01)<br>
+      데이터 기반 초개인화 CRM 메시지를 자동으로 기획·생성·개선하는 AI Agent : React, Web Crwaling 담당
+    </li>
+    <li>
+      <strong>DOCKin — 산업통상자원부 주관 K-조선 2025 해커톤 대상(1등 장관상)</strong> (2025.09 ~ 2025.11)<br>
+       AI 기반 조선현장 작업지원 어플 : Kotlin, Unity, FastAPI 
     </li>
     <li>
       <strong>A-parking</strong> (2025.10 ~ 2025.12)<br>
-      실시간 점유율 표시 및 데이터 기반 혼잡도 예측 : React, FastAPI, YOLO / Express, MySQL
+      실시간 점유율 표시 및 데이터 기반 혼잡도 예측 : React, FastAPI, YOLO
     </li>
     <li>
       <strong>Unity 2D 게임 “Dungeon of Records”</strong> (2025.03)<br>
@@ -112,7 +115,7 @@
     </li>
     <li>
   <strong>강아지 산책 경로 추천 앱</strong> (2023.09)<br>
-  경로추천 AI 기반 산책 경로 추천 서비스 기획, : Kotlin
+  경로추천 AI 기반 산책 경로 추천 서비스 기획 : Kotlin
 </li>
   </ul>
 </div>
@@ -121,7 +124,7 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤝 Tech & Education Volunteering </h2>
   <ul style="list-style-type: disc; font-size: 15px; font-weight: 600; color: #282d33;">
-        <li>
+    <li>
        <strong> 언어문화NGO 조인어스코리아 - 웹 UX 개선 봉사활동 </strong> (2026.01 ~ Present)<br>
      : Next.js · React · Django · AWS 기반 조인어스월드 서비스 유지보수 및 UX 개선
     </li>
