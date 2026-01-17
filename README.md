@@ -17,6 +17,11 @@
   </div>
 </div>
 
+You can see my portfolio here -> 
+<a href="https://secretive-fighter-efc.notion.site/2eb58d06892d8032a9cee9f2dfd5483f">
+  <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=flat&logo=notion&logoColor=white">
+</a>
+
 <br>
 
 <div style="text-align: left;">
@@ -47,119 +52,6 @@
   </div>
 </div>
 
-<br>
-
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍇 Activity </h2>
-  <ul style="list-style-type: disc; font-size: 15px; font-weight: 600; color: #282d33;">
-    <li>
-    <strong>IT 근로 인턴</strong> (2025.03 ~ 2025.12)<br>
-      - C#, .NET Framework 기반 사내 업무 지원용 Windows Forms 프로그램 개발<br>
-      - Unity를 활용한 3D 도면 미리보기 및 시각화 툴 구현<br>
-      - PHP / HTML / CSS 기반 사내 프로그램 유지보수 및 기능 수정
-    </li>
-    <li>
-      <strong>학부 연구생 활동</strong> (2025.03 ~ 2025.12)<br>
-      : UWB 데이터 분류 , MCU 기반 TinyML, LoS/NLoS 분류 및 경량화 모델 연구 <br>
-      TensorFlow, TFLM,Edge AI, Python, C<br>
-    </li>
-    <li>
-      <strong>LG CNS AI Genius 12기</strong> (2024.09 ~ 2024.12)<br>
-    </li>
-    <li>
-      <strong>LG SDC 2024 서포터즈 1기</strong> (2024.09)<br>
-    </li>
-    <li>
-      <strong>KISA 블록체인 누리단</strong> (2024.08 ~ 2024.11)<br>
-    </li>
-    <li>
-      <strong>게임듀오 겜듀캐스트 서포터즈 1기</strong> (2024.04 ~ 2024.10)<br>
-    </li>
-    <li>
-      <strong>대학일자리플러스센터 서포터즈 15기 영상팀</strong> (2023.08 ~ 2024.02)<br>
-    </li>
-    <li>
-      <strong>문화재단 근로 인턴</strong> (2023.09 ~ 2024.08)<br>
-      : 데이터 분석 프로그램 활용 행정 업무, OA 문서 작업, 안내데스크 응대
-    </li>
-    <li>
-      <strong>중앙광고동아리 온라인마케팅팀 팀장</strong> (2023.09 ~ 2023.12)<br>
-      기업 마케팅 분석 및 리서치 진행 <br>
-    </li>
-    <li>
-      <strong>Supporters 4U</strong> (2023.09)<br>
-      : 4개 대학 연합 제주 로컬브랜딩 해커톤 — 관광 활성화 기획 및 발표
-    </li>
-  </ul>
-</div>
-
-<br>
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Projects </h2>
-  <ul style="list-style-type: disc; font-size: 15px; font-weight: 600; color: #282d33;">
-    <li>
-      <strong> [아모레퍼시픽] 2026 AI INNOVATION CHALLENGE </strong> (2025.12 ~ 2026.01)<br>
-      데이터 기반 초개인화 CRM 메시지를 자동으로 기획·생성·개선하는 AI Agent : React, Web Crwaling 담당
-    </li>
-    <li>
-      <strong>DOCKin — 산업통상자원부 주관 K-조선 2025 해커톤 대상(1등 장관상)</strong> (2025.09 ~ 2025.11)<br>
-       AI 기반 조선현장 작업지원 어플 : Kotlin, Unity, FastAPI 
-    </li>
-    <li>
-      <strong>A-parking</strong> (2025.10 ~ 2025.12)<br>
-      실시간 점유율 표시 및 데이터 기반 혼잡도 예측 : React, FastAPI, YOLO
-    </li>
-    <li>
-      <strong>Unity 2D 게임 “Dungeon of Records”</strong> (2025.03)<br>
-      로그라이크 카드 시스템: 카드 UI/데이터 구조/상호작용 로직 구현 : Unity, C#
-    </li>
-    <li>
-  <strong>강아지 산책 경로 추천 앱</strong> (2023.09)<br>
-  경로추천 AI 기반 산책 경로 추천 서비스 기획 : Kotlin
-</li>
-  </ul>
-</div>
-<br>
-
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤝 Tech & Education Volunteering </h2>
-  <ul style="list-style-type: disc; font-size: 15px; font-weight: 600; color: #282d33;">
-    <li>
-       <strong> 언어문화NGO 조인어스코리아 - 웹 UX 개선 봉사활동 </strong> (2026.01 ~ Present)<br>
-     : Next.js · React · Django · AWS 기반 조인어스월드 서비스 유지보수 및 UX 개선
-    </li>
-    <li>
-      <strong>LG CNS AI Genius 12기</strong> (2024.09 ~ 2024.12)<br>
-    </li>
-    <li>
-      <strong>현대오토에버 찾아가는 코드클럽 교육봉사</strong> (2024.04 ~ 2024.07)<br>
-    </li>
-    <li>
-      <strong>CJ 올리브네트웍스 청소년 디지털 문제해결 프로젝트 멘토</strong> (2024.07 ~ 2024.11)<br>
-    </li>
-    <li>
-      <strong>중앙 교육봉사동아리 기획부장</strong> (2023.03 ~ 2024.06)<br>
-      IT 및 영어 교육봉사, 프로젝트 기획 및 컨텐츠 제작 
-    </li>
-  </ul>
-</div>
-<br>
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📖 Education</h2>
-  <ul style="list-style-type: disc; font-size: 15px; font-weight: 600; color: #282d33;">
-  <li>
-  <strong>Automotive SPICE 핵심 체크포인트 이해 과정 (상/하)</strong> - (2026.01 ~ 2026.02) 
-  <br>: 임베디드·자동차 SW 개발 프로세스, 요구사항·검증 체계 이해
-  </li>
-  <li>
-  <strong>드림핵 사이버보안 입문 – 시스템 해킹 초급</strong> - (2025.01 ~ 2025.03)<br>
-    : Linux 환경 기반 메모리 구조, 권한 상승, 바이너리 취약점 기초 학습
-  </li>
-  <li>
-    <strong>드림핵 사이버보안 입문 – 웹 해킹 초급</strong> - (2025.01 ~ 2025.03)<br>
-    : HTTP 구조 이해, SQL Injection, XSS 등 웹 취약점 실습
-  </li>
-  </div>
 <br>
 
 <div style="text-align: left;">
