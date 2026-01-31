@@ -17,11 +17,6 @@
   </div>
 </div>
 
-You can see my portfolio here -> 
-<a href="https://secretive-fighter-efc.notion.site/2eb58d06892d8032a9cee9f2dfd5483f">
-  <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=flat&logo=notion&logoColor=white">
-</a>
-
 <br>
 
 <div style="text-align: left;">
