@@ -5,21 +5,6 @@
 <br>
 
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👾 About me </h2>
-  <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-    I’m interested in <strong>embedded systems</strong> and <strong>edge AI</strong>,
-    so I’m currently studying <strong>AIoT</strong> and <strong>TinyML</strong>. <br><br>
-    I’m also a <strong>full-stack web developer</strong>,<br>
-    building backend services with <strong>FastAPI</strong> and
-    frontend & mobile applications with <strong>React</strong> and <strong>React Native</strong>.<br><br>
-    I enjoy designing and implementing end-to-end systems,
-    from edge devices to servers and user-facing applications.
-  </div>
-</div>
-
-<br>
-
-<div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
   <br>
   <div style="margin: 0; text-align: left;">
@@ -36,10 +21,7 @@
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=black">
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=flat&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat&logo=figma&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
