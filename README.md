@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff99cc,50:2563EB,100:06B6D4&height=210&section=header&text=my%20tiny%20Dev%20log&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20%C3%97%20DevOps&descSize=18&descAlignY=59&animation=fadeIn)
 
-Backend Engineer · DevOps · Applied AI  
-Ajou University, Software Engineering `2022.03 — 2027.02`
 
 [![GitHub](https://img.shields.io/badge/GitHub-emfpdlzj-181717?style=for-the-badge&logo=github)](https://github.com/emfpdlzj) [![Blog](https://img.shields.io/badge/Tech_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/emfpdlzj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EB%B0%95-24162638a/) 
 
@@ -86,7 +84,7 @@ Distributed Systems  멱등성·재시도·트랜잭션을 고려한 장애 내�
 | Date | Award | Result |
 | :---: | --- | --- |
 | 2026.07 | 하나 청년금융인재 양성 프로젝트 | **최우수상 · 하나금융그룹 기업상** |
-| 2026.07 | 제5회 고용노동 공공데이터·AI 활용 공모전 | **우수상 · 한국장애인고용공단 이사장상** |
+| 2026.07 | 제5회 고용노동부 공공데이터·AI 활용 공모전 | **우수상 · 한국장애인고용공단 이사장상** |
 | 2026.03 | 아주대학교 2025 동계 모각소 | **우수상 · SW융합교육원장상** |
 | 2026.03 | 2026 AJOU AWS 새싹 해커톤 | **2위 · 넥스트클라우드 대표상** |
 | 2025.11 | K-조선 2025 해커톤 | **대상 · 산업통상자원부 장관상** |
