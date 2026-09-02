@@ -144,7 +144,7 @@ Distributed Systems  멱등성·재시도·트랜잭션을 고려한 장애 내�
 
 새로운 문제와 배움, 그리고 좋은 협업을 환영합니다.
 
-**[Email](mailto:emfpdlzj@naver.com) · [GitHub](https://github.com/emfpdlzj) · [Blog](https://blog.naver.com/emfpdlzj) · [LinkedIn](https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EB%B0%95-24162638a/) · [Resume](https://app.notion.com/p/d9558d06892d8361832381b6dce95233)**
+**[Email](mailto:emfpdlzj@naver.com) · [GitHub](https://github.com/emfpdlzj) · [Blog](https://blog.naver.com/emfpdlzj) · [LinkedIn](https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EB%B0%95-24162638a/)**
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:6D28D9&height=110&section=footer)
 
