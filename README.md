@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff99cc,50:2563EB,100:06B6D4&height=210&section=header&text=my%20tiny%20Dev%20log&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20%C3%97%20DevOps&descSize=18&descAlignY=59&animation=fadeIn)
 
+Backend Engineer · DevOps · Applied AI  
+Ajou University, Software Engineering `2022.03 — 2027.02`
 
 [![GitHub](https://img.shields.io/badge/GitHub-emfpdlzj-181717?style=for-the-badge&logo=github)](https://github.com/emfpdlzj) [![Blog](https://img.shields.io/badge/Tech_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/emfpdlzj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EB%B0%95-24162638a/) 
 
@@ -105,11 +107,11 @@ Distributed Systems  멱등성·재시도·트랜잭션을 고려한 장애 내�
 
 | Period | Organization | Contribution |
 | :---: | --- | --- |
-| 2026.01 — 05 | **JOINUS Korea** | 웹 UX 개선팀장(PM) · Django/Next.js 개발, 배포 자동화 및 운영 안정화 |
+| 2026.01 — 06 | **JOINUS Korea** | 웹 UX 개선팀장(PM) · Django/Next.js 개발, 배포 자동화 및 운영 안정화 |
 | 2024.09 — 12 | **LG CNS AI Genius 12기** | 초등학생 대상 AI·SW 교육 및 팀 운영 총괄 · 약 40시간 |
 | 2024.04 — 08 | **현대오토에버 찾아가는 코드클럽** | 초등학생 대상 Scratch 교육, 커리큘럼 기획 및 팀 리딩 |
 | 2024.07 — 11 | **CJ 청소년 디지털 문제해결 프로젝트** | 고등학생 진로 멘토링 및 LEGO Spike 기반 SW·AI 교육 |
-| 2023.03 — 06 | **샘터야학** | 어르신 대상 영어 교육봉사 및 행사 기획 |
+| 2023.03 — 06 | **샘터야학** | 어르신 대상 영어 교육봉사 |
 
 ## 📚 Training
 
