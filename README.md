@@ -129,7 +129,7 @@ Distributed Systems  멱등성·재시도·트랜잭션을 고려한 장애 내�
 
 - **TOPCIT Level 3** · 정보통신기획평가원 `2025.11`
 - **정보처리기사** · 발급 대기
-- **SQLD** · 발급 대기
+- **SQLD** · `2026.09`
 - **OPIc IM2** · ACTFL `2026.05`
 
 ## 👍 Recommendation
