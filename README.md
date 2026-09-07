@@ -69,7 +69,7 @@ Distributed Systems  멱등성·재시도·트랜잭션을 고려한 장애 내�
 
 - 실무에서 경험한 CI/CD 배포 검증 문제를 재사용 가능한 오픈소스로 구현
 - Kubernetes·Docker·Blue-Green 환경에서 애플리케이션 상태 확인을 단순화
-- PyPI **4,800+ Downloads**, GitHub **25 Stars** 달성 및 지속적인 유지보수
+- PyPI **4,900+ Downloads**, GitHub **25 Stars** 달성 및 지속적인 유지보수
 
 ### Upstream Contributions
 
