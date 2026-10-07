@@ -69,7 +69,7 @@ Distributed Systems  멱등성·재시도·트랜잭션을 고려한 장애 내�
 
 - 실무에서 경험한 CI/CD 배포 검증 문제를 재사용 가능한 오픈소스로 구현
 - Kubernetes·Docker·Blue-Green 환경에서 애플리케이션 상태 확인을 단순화
-- PyPI **4,900+ Downloads**, GitHub **25 Stars** 달성 및 지속적인 유지보수
+- PyPI **6,300+ Downloads**, GitHub **28 Stars** 달성 및 지속적인 유지보수
 
 ### Upstream Contributions
 
@@ -83,6 +83,7 @@ Distributed Systems  멱등성·재시도·트랜잭션을 고려한 장애 내�
 
 | Date | Award | Result |
 | :---: | --- | --- |
+| 2026.10 | 2026 제 2회 Google-아주대학교 AI융합캡스톤디자인 대회 | **Google AI융합 장려상 · 아주대학교 지산학융복합교육원장상** |
 | 2026.07 | 하나 청년금융인재 양성 프로젝트 | **최우수상 · 하나금융그룹 기업상** |
 | 2026.07 | 제5회 고용노동부 공공데이터·AI 활용 공모전 | **우수상 · 한국장애인고용공단 이사장상** |
 | 2026.05 | AI수도울산미래인재 장학 선발 및 수여 | **(재)울산연구원** |
@@ -128,9 +129,10 @@ Distributed Systems  멱등성·재시도·트랜잭션을 고려한 장애 내�
 
 ## 🏅 Certifications & Language
 
-- **TOPCIT Level 3** · 정보통신기획평가원 `2025.11`
+- **리눅스 마스터 2급** · `2026.10`
 - **SQLD** · `2026.09`
 - **OPIc IM2** · ACTFL `2026.05`
+- **TOPCIT Level 3** · 정보통신기획평가원 `2025.11`
 
 ## 👍 Recommendation
 
