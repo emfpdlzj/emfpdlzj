@@ -9,33 +9,9 @@
 
 ## 🗨️ About Me
 
-저는 **기술을 사람과 현실의 문제에 연결하는 개발자**입니다.  
-Django 기반 백엔드 개발을 중심으로 CI/CD, 무중단 배포, 관측 환경까지 서비스의 전체 생명주기를 다룹니다.
-
-- 반복되는 운영 문제를 자동화하고, 병목을 수치로 확인해 개선합니다.
-- 빠른 구현보다 **장애를 진단할 수 있고 안전하게 배포할 수 있는 시스템**을 지향합니다.
-- 금융·공공데이터·접근성·다문화 문제에 AI를 실제 서비스 형태로 적용해 왔습니다.
-- 개발 경험에서 발견한 문제를 오픈소스로 일반화하고 다시 생태계에 돌려주는 일을 좋아합니다.
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-</div>
-
-## ✍️ Studying Recently
-
-```text
-Kubernetes / k3s     유휴 스마트폰을 분산 연산 노드로 재활용하는 클러스터 연구
-Cloud Native         AWS SAA · Terraform · 관측 가능한 서비스 운영
-Distributed Systems  멱등성·재시도·트랜잭션을 고려한 장애 내성 시스템과 안전한 대용량 데이터 처리
-```
+> **AI · Backend · Financial Services**  
+> 은행·증권의 업무 흐름을 이해하고, AI를 실제 서비스로 연결하는 개발자입니다.  
+> 누구나 쉽게 이용할 수 있는 금융 서비스와 안정적으로 운영되는 시스템을 고민합니다.
 
 ## 💻 Experience
 
@@ -69,7 +45,7 @@ Distributed Systems  멱등성·재시도·트랜잭션을 고려한 장애 내�
 
 - 실무에서 경험한 CI/CD 배포 검증 문제를 재사용 가능한 오픈소스로 구현
 - Kubernetes·Docker·Blue-Green 환경에서 애플리케이션 상태 확인을 단순화
-- PyPI **6,300+ Downloads**, GitHub **28 Stars** 달성 및 지속적인 유지보수
+- PyPI **7,000+ Downloads**, GitHub **28 Stars** 달성 및 지속적인 유지보수
 
 ### Upstream Contributions
 
